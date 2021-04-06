@@ -16,7 +16,7 @@ function App() {
       <button onClick={() => setCount(count + 1)}>
         Cliquez ici
       </button>
-      Click me
+     
     </button>
         </div>
         <img src={logo} className="App-logo" alt="logo" />
